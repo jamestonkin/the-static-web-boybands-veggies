@@ -35,6 +35,6 @@ for (var i = 0; i < bands.length; i++) {
   bandElement.innerHTML += "<p>" + bands[i] + "</p>";
 }
 
-for (var i = 0; i < vegetables.length; i++) {
-  veggieElement.innerHTML += "<p>" + vegetables[i] + "</p>";
+for (var j = 0; j < vegetables.length; j++) {
+  veggieElement.innerHTML += "<p>" + vegetables[j] + "</p>";
 }
